@@ -2,9 +2,9 @@
   "name": "esports",
   "version": "0.0.1",
   "description": "example Bot Indogamers.",
-  "main": "index.js",
+  "main": "esports.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node esports.js"
   },
   "dependencies": {
     "express": "^4.16.4",
